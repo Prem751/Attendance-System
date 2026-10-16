@@ -1,0 +1,13 @@
+{
+    "trained_at": "2026-10-17 02:04:53",
+    "total_persons": 2,
+    "total_samples": 2,
+    "label_map": {
+        "1": "Lena",
+        "2": "Messi"
+    },
+    "name_to_id": {
+        "Lena": 1,
+        "Messi": 2
+    }
+}
